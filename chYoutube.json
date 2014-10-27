@@ -1,0 +1,125 @@
+{	
+
+	"channels": [
+
+		[
+			{
+				"name":"Frecuencia Latina",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-6IY1-kjn3h4%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FvZotb3pAE98",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2F3rDtLrcgr3JS3_3JOW4BAw",
+				"id":"frecuencialatina"
+			},
+			{
+				"name":"La Voz Peru FL",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F--IH_e_iVsAo%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FFY1kk3ixr-s",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2Fl0tOfX7Ra0kDE9WnB_wfTA",
+				"id":"LaVozPeruFLOficial"
+			},
+			{
+				"name":"LaVoz KidsPeru",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F--IH_e_iVsAo%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FFY1kk3ixr-s",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2FsmShc1ukcXp6SP64-ORESA",
+				"id":"LaVozKidsFLPeru"
+			}
+
+		],
+
+		[
+
+			{
+				"name":"Al Fondo hay Sitio",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-LSApgWVysX4%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FknuGHT_WffI",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2FRFUzVEen4SIFW1pJn0u0nw",
+				"id":"americatvalfondo"
+			},
+			{
+				"name":"Esto es Guerra",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-1zjOXkclUtc%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F-NlFM1xc5BI",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2FZSJ9bCN0Kh8vJImfacvkFg",
+				"id":"estoesguerraamerica"
+			},
+			{
+				"name":"TEC",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-WMl-_QvDlns%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FrSlxGYNBp8Y",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2FBtSfnUVAuq9fKaPrMWa_ag",
+				"id":"TECTV01"
+			},
+			{
+				"name":"Doctor TV",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-F9mfrePr7ig%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FXxBVYRoEhtg",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2Fumniud__xReCcffZ6-_IJQ",
+				"id":"DrTvPeruOficial"
+			},
+			{
+				"name":"CineScape",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-h4pRGv0w298%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FzaDefUkTbSg",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fu%2F733NW_5R94ni5dELMoRCUA",
+				"id":"Cinescape01"
+			},
+			{
+				"name":"America Noticias",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-PpQY-ew4CeA%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_8B_yjwJuLE",
+				"banner":"0",
+				"id":"americanoticiaspe"
+			}
+
+		],
+
+		[
+
+			{
+				"name":"Panamericana Television",
+				"img":"https%3A%2F%2Fi1.ytimg.com%2Fi%2Fo1RDkwLdtk4C2zCjq9LdDg",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fi%2Fo1RDkwLdtk4C2zCjq9LdDg",
+				"id":"panamericanatvperu"
+			},
+			{
+				"name":"Panorama",
+				"img":"https%3A%2F%2Fi1.ytimg.com%2Fi%2FBiq92lt_ufNO-ktZigVXgg",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fi%2FBiq92lt_ufNO-ktZigVXgg",
+				"id":"panoramaperu"
+			},
+			{
+				"name":"Enemigos Publicos",
+				"img":"https%3A%2F%2Fi1.ytimg.com%2Fi%2FFffvtNiY58H5Vl3rPC3kWw",
+				"banner":"https%3A%2F%2Fi1.ytimg.com%2Fi%2FFffvtNiY58H5Vl3rPC3kWw",
+				"id":"enemigospublicostv"
+			}
+
+		],
+
+		[
+			{
+				"name":"TVPeru",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-cKWAs8vVghI%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FJlft1Nw58Dw",
+				"banner":"0",
+				"id":"portaltvperu"
+			}
+		],
+
+		[
+			{
+				"name":"Tuteve ATV",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-P6G0Bfky100%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F1juKg2YLTHk",
+				"banner":"0",
+				"id":"Fullactualidad"
+			}
+		],
+
+		[
+			{
+				"name":"RPP Noticias Peru",
+				"img":"https%3A%2F%2Fyt3.ggpht.com%2F-SJZVGOU6d4g%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FuinPQAghIe0",
+				"banner":"0",
+				"id":"RPPeru"
+			}
+		],
+
+		[],
+
+		[],
+
+		[]
+
+	]
+}
